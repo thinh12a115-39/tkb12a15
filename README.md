@@ -6,7 +6,7 @@
      <h1>THỜI KHOÁ BIỂU</h1> 
       <table border="1" width="100%">
         
-        <tr>
+      <tr>
           <th>Tiết</th>
           <th>Thứ Hai</th>
           <th>Thứ Ba</th>
@@ -15,8 +15,8 @@
           <th>Thứ Sáu</th>
           <th>Thứ Bảy</th>
         
-        </tr>
-        <tr>
+      </tr>
+       <tr>
           <td colspan="7">Buổi Sáng</td>
         </tr>
         <tr>
